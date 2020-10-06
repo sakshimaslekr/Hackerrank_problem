@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    int n,a[100];
-    int i,b[100];
+    int n,a[50];
+    int i,b[50];
     scanf("%d",&n);
     for(i=0;i<n;i++)
     {
